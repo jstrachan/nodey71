@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 replicaCount: 1
 image:
-  repository: gcr.io/jenkinsxio/nodey72
+  repository: gcr.io/jenkinsxio/nodey71
   tag: 0.0.3
   pullPolicy: IfNotPresent
 
